@@ -22,3 +22,5 @@ python3 main.py
 ## Built With
 
 Python • Tkinter • JSON
+
+<img width="980" height="788" alt="image" src="https://github.com/user-attachments/assets/cfebea6e-118d-43f1-8b1a-c7110849e51b" />
