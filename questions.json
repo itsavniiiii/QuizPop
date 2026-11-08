@@ -1,0 +1,809 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Sports",
+      "question": "How many players from one team are on the court during a standard basketball game?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": "5",
+      "explanation": "Each basketball team has five players on the court at a time."
+    },
+    {
+      "id": 2,
+      "category": "Sports",
+      "question": "How many players does a soccer team have on the field at one time, including the goalkeeper?",
+      "options": ["9", "10", "11", "12"],
+      "correct_answer": "11",
+      "explanation": "A soccer team fields 11 players: 10 outfield players plus one goalkeeper."
+    },
+    {
+      "id": 3,
+      "category": "Sports",
+      "question": "In tennis, what word is used to describe a score of zero?",
+      "options": ["Nil", "Love", "Zip", "Duck"],
+      "correct_answer": "Love",
+      "explanation": "Tennis calls a score of zero \"love\" — for example, \"15–love.\""
+    },
+    {
+      "id": 4,
+      "category": "Sports",
+      "question": "How many holes are played in a standard full round of golf?",
+      "options": ["9", "12", "18", "24"],
+      "correct_answer": "18",
+      "explanation": "A standard round of golf consists of 18 holes."
+    },
+    {
+      "id": 5,
+      "category": "Sports",
+      "question": "How many interlocking rings appear on the Olympic flag?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": "5",
+      "explanation": "The five Olympic rings represent the union of the world's continents through sport."
+    },
+    {
+      "id": 6,
+      "category": "Sports",
+      "question": "Which sport is played with a racket and a feathered or plastic shuttlecock?",
+      "options": ["Squash", "Table tennis", "Badminton", "Pickleball"],
+      "correct_answer": "Badminton",
+      "explanation": "Badminton players hit a shuttlecock (also called a \"birdie\") over a net."
+    },
+    {
+      "id": 7,
+      "category": "Sports",
+      "question": "In American football, how many points is a touchdown worth before any extra-point attempt?",
+      "options": ["3", "6", "7", "8"],
+      "correct_answer": "6",
+      "explanation": "A touchdown is worth 6 points; the team can then try for 1 or 2 extra points."
+    },
+    {
+      "id": 8,
+      "category": "Sports",
+      "question": "In baseball, how many strikes does it take for a batter to strike out?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": "3",
+      "explanation": "Three strikes and you're out! Four balls, on the other hand, earns a walk."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country hosted the first modern Olympic Games in 1896?",
+      "options": ["France", "Greece", "England", "United States"],
+      "correct_answer": "Greece",
+      "explanation": "The first modern Olympics were held in Athens, Greece, honoring the ancient Games."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "About how long is an official marathon race?",
+      "options": ["13.1 miles", "20 miles", "26.2 miles", "31 miles"],
+      "correct_answer": "26.2 miles",
+      "explanation": "A marathon is 42.195 kilometers, or about 26.2 miles."
+    },
+    {
+      "id": 11,
+      "category": "Sports",
+      "question": "In ten-pin bowling, what is it called when you knock down all ten pins with your first ball of a frame?",
+      "options": ["A spare", "A strike", "A split", "A gutter"],
+      "correct_answer": "A strike",
+      "explanation": "Knocking down all ten pins on the first roll is a strike; doing it in two rolls is a spare."
+    },
+    {
+      "id": 12,
+      "category": "Sports",
+      "question": "The traditional wrestling sport of sumo originated in which country?",
+      "options": ["China", "Japan", "Mongolia", "Thailand"],
+      "correct_answer": "Japan",
+      "explanation": "Sumo has been practiced in Japan for centuries and is closely tied to Shinto traditions."
+    },
+    {
+      "id": 13,
+      "category": "Sports",
+      "question": "How many periods are played in a regulation NHL ice hockey game?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": "3",
+      "explanation": "An NHL game has three 20-minute periods."
+    },
+    {
+      "id": 14,
+      "category": "Sports",
+      "question": "How many players are on each side in a standard game of cricket?",
+      "options": ["9", "10", "11", "13"],
+      "correct_answer": "11",
+      "explanation": "A cricket team fields 11 players, just like soccer."
+    },
+    {
+      "id": 15,
+      "category": "Sports",
+      "question": "In indoor volleyball, what is the maximum number of touches a team may use to return the ball (not counting a block)?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": "3",
+      "explanation": "Teams get up to three touches — often a bump, set, and spike — to send the ball back over the net."
+    },
+    {
+      "id": 16,
+      "category": "Sports",
+      "question": "What is the highest possible score in a single game of ten-pin bowling?",
+      "options": ["100", "200", "300", "400"],
+      "correct_answer": "300",
+      "explanation": "A perfect game is 12 strikes in a row, for a score of 300."
+    },
+    {
+      "id": 17,
+      "category": "Sports",
+      "question": "The Tour de France is a famous race in which sport?",
+      "options": ["Running", "Cycling", "Car racing", "Sailing"],
+      "correct_answer": "Cycling",
+      "explanation": "The Tour de France is a multi-week professional cycling race held mostly in France."
+    },
+    {
+      "id": 18,
+      "category": "Sports",
+      "question": "In an Olympic individual medley swimming race, which stroke is swum first?",
+      "options": ["Freestyle", "Backstroke", "Breaststroke", "Butterfly"],
+      "correct_answer": "Butterfly",
+      "explanation": "The individual medley order is butterfly, backstroke, breaststroke, then freestyle."
+    },
+    {
+      "id": 19,
+      "category": "Sports",
+      "question": "How often is the men's FIFA World Cup normally held?",
+      "options": ["Every year", "Every 2 years", "Every 4 years", "Every 5 years"],
+      "correct_answer": "Every 4 years",
+      "explanation": "The FIFA World Cup is held every four years."
+    },
+    {
+      "id": 20,
+      "category": "Sports",
+      "question": "Teams in which sport compete to win the Stanley Cup?",
+      "options": ["Basketball", "Ice hockey", "Baseball", "Lacrosse"],
+      "correct_answer": "Ice hockey",
+      "explanation": "The Stanley Cup is awarded to the NHL's championship team."
+    },
+
+    {
+      "id": 21,
+      "category": "Government",
+      "question": "How many U.S. senators does each state have?",
+      "options": ["1", "2", "3", "It depends on population"],
+      "correct_answer": "2",
+      "explanation": "Every state has two senators, no matter its population."
+    },
+    {
+      "id": 22,
+      "category": "Government",
+      "question": "How many voting members are in the U.S. House of Representatives?",
+      "options": ["100", "250", "435", "538"],
+      "correct_answer": "435",
+      "explanation": "The House has 435 voting members, divided among the states by population."
+    },
+    {
+      "id": 23,
+      "category": "Government",
+      "question": "How long is a single term for a U.S. senator?",
+      "options": ["2 years", "4 years", "6 years", "8 years"],
+      "correct_answer": "6 years",
+      "explanation": "Senators serve six-year terms, with about one-third of seats up for election every two years."
+    },
+    {
+      "id": 24,
+      "category": "Government",
+      "question": "How long is a single term for a member of the U.S. House of Representatives?",
+      "options": ["2 years", "4 years", "6 years", "Life"],
+      "correct_answer": "2 years",
+      "explanation": "Representatives serve two-year terms, so every House seat is up for election every two years."
+    },
+    {
+      "id": 25,
+      "category": "Government",
+      "question": "Who is the Commander in Chief of the U.S. armed forces?",
+      "options": ["The Secretary of Defense", "The President", "The Speaker of the House", "The Chief Justice"],
+      "correct_answer": "The President",
+      "explanation": "The Constitution makes the President the Commander in Chief of the military."
+    },
+    {
+      "id": 26,
+      "category": "Government",
+      "question": "Which branch of the U.S. government interprets the laws?",
+      "options": ["Legislative", "Executive", "Judicial", "Electoral"],
+      "correct_answer": "Judicial",
+      "explanation": "The judicial branch — the courts — interprets laws and decides whether they follow the Constitution."
+    },
+    {
+      "id": 27,
+      "category": "Government",
+      "question": "How many justices sit on the U.S. Supreme Court?",
+      "options": ["7", "9", "11", "12"],
+      "correct_answer": "9",
+      "explanation": "The Supreme Court has had nine justices — one Chief Justice and eight associates — since 1869."
+    },
+    {
+      "id": 28,
+      "category": "Government",
+      "question": "What is it called when the President rejects a bill passed by Congress?",
+      "options": ["A filibuster", "A veto", "An impeachment", "A recall"],
+      "correct_answer": "A veto",
+      "explanation": "A veto lets the President reject a bill; Congress can try to override it."
+    },
+    {
+      "id": 29,
+      "category": "Government",
+      "question": "What fraction of votes in both the House and Senate is needed to override a presidential veto?",
+      "options": ["One-half", "Three-fifths", "Two-thirds", "Three-fourths"],
+      "correct_answer": "Two-thirds",
+      "explanation": "Overriding a veto takes a two-thirds vote in both chambers of Congress."
+    },
+    {
+      "id": 30,
+      "category": "Government",
+      "question": "If the President can no longer serve, who is first in line to become President?",
+      "options": ["The Speaker of the House", "The Vice President", "The Secretary of State", "The Chief Justice"],
+      "correct_answer": "The Vice President",
+      "explanation": "The Vice President is first in the presidential line of succession."
+    },
+    {
+      "id": 31,
+      "category": "Government",
+      "question": "How many electoral votes does a candidate need to win the U.S. presidency?",
+      "options": ["218", "250", "270", "300"],
+      "correct_answer": "270",
+      "explanation": "There are 538 electoral votes in total, so a majority is 270."
+    },
+    {
+      "id": 32,
+      "category": "Government",
+      "question": "What is the name for a system where power is shared between a national government and state governments?",
+      "options": ["Monarchy", "Federalism", "Oligarchy", "Anarchy"],
+      "correct_answer": "Federalism",
+      "explanation": "Federalism divides power between the national government and the states."
+    },
+    {
+      "id": 33,
+      "category": "Government",
+      "question": "Who serves as the President of the U.S. Senate?",
+      "options": ["The Vice President", "The Speaker of the House", "The Senate Majority Leader", "The Chief Justice"],
+      "correct_answer": "The Vice President",
+      "explanation": "The Vice President presides over the Senate and can cast a vote to break a tie."
+    },
+    {
+      "id": 34,
+      "category": "Government",
+      "question": "In a parliamentary system such as the United Kingdom's, what is the head of government usually called?",
+      "options": ["President", "Governor", "Prime Minister", "Chancellor of the Exchequer"],
+      "correct_answer": "Prime Minister",
+      "explanation": "In parliamentary systems the Prime Minister leads the government, usually as head of the largest party."
+    },
+    {
+      "id": 35,
+      "category": "Government",
+      "question": "What is the minimum age to vote in U.S. federal elections?",
+      "options": ["16", "18", "21", "25"],
+      "correct_answer": "18",
+      "explanation": "U.S. citizens can vote in federal elections starting at age 18."
+    },
+
+    {
+      "id": 36,
+      "category": "Constitution",
+      "question": "How many amendments are in the U.S. Constitution?",
+      "options": ["10", "21", "27", "30"],
+      "correct_answer": "27",
+      "explanation": "The U.S. Constitution currently has 27 ratified amendments."
+    },
+    {
+      "id": 37,
+      "category": "Constitution",
+      "question": "What are the first ten amendments to the U.S. Constitution called?",
+      "options": ["The Articles of Confederation", "The Bill of Rights", "The Federalist Papers", "The Declaration of Rights"],
+      "correct_answer": "The Bill of Rights",
+      "explanation": "The Bill of Rights, ratified in 1791, protects key individual freedoms."
+    },
+    {
+      "id": 38,
+      "category": "Constitution",
+      "question": "What is the introduction to the U.S. Constitution called?",
+      "options": ["The Prologue", "The Preamble", "The Foreword", "The Charter"],
+      "correct_answer": "The Preamble",
+      "explanation": "The Preamble explains the purposes of the Constitution, such as forming \"a more perfect Union.\""
+    },
+    {
+      "id": 39,
+      "category": "Constitution",
+      "question": "What are the first three words of the U.S. Constitution?",
+      "options": ["\"We the People\"", "\"In Congress Assembled\"", "\"Four Score and\"", "\"When in the\""],
+      "correct_answer": "\"We the People\"",
+      "explanation": "\"We the People\" signals that the government's power comes from its citizens."
+    },
+    {
+      "id": 40,
+      "category": "Constitution",
+      "question": "Which amendment protects freedom of speech, religion, and the press?",
+      "options": ["The First Amendment", "The Second Amendment", "The Fifth Amendment", "The Tenth Amendment"],
+      "correct_answer": "The First Amendment",
+      "explanation": "The First Amendment protects speech, religion, press, assembly, and petition."
+    },
+    {
+      "id": 41,
+      "category": "Constitution",
+      "question": "In what year was the U.S. Constitution signed?",
+      "options": ["1776", "1781", "1787", "1791"],
+      "correct_answer": "1787",
+      "explanation": "Delegates signed the Constitution on September 17, 1787."
+    },
+    {
+      "id": 42,
+      "category": "Constitution",
+      "question": "In which city was the U.S. Constitution written and signed?",
+      "options": ["Boston", "New York City", "Philadelphia", "Washington, D.C."],
+      "correct_answer": "Philadelphia",
+      "explanation": "The Constitutional Convention met at Independence Hall in Philadelphia."
+    },
+    {
+      "id": 43,
+      "category": "Constitution",
+      "question": "Which amendment abolished slavery in the United States?",
+      "options": ["The 12th Amendment", "The 13th Amendment", "The 15th Amendment", "The 19th Amendment"],
+      "correct_answer": "The 13th Amendment",
+      "explanation": "The 13th Amendment, ratified in 1865, abolished slavery."
+    },
+    {
+      "id": 44,
+      "category": "Constitution",
+      "question": "Which amendment guaranteed women the right to vote?",
+      "options": ["The 14th Amendment", "The 15th Amendment", "The 19th Amendment", "The 26th Amendment"],
+      "correct_answer": "The 19th Amendment",
+      "explanation": "The 19th Amendment, ratified in 1920, prohibits denying the vote based on sex."
+    },
+    {
+      "id": 45,
+      "category": "Constitution",
+      "question": "Which amendment lowered the voting age to 18?",
+      "options": ["The 19th Amendment", "The 22nd Amendment", "The 24th Amendment", "The 26th Amendment"],
+      "correct_answer": "The 26th Amendment",
+      "explanation": "The 26th Amendment, ratified in 1971, set the voting age at 18."
+    },
+    {
+      "id": 46,
+      "category": "Constitution",
+      "question": "Which article of the Constitution creates the legislative branch (Congress)?",
+      "options": ["Article I", "Article II", "Article III", "Article IV"],
+      "correct_answer": "Article I",
+      "explanation": "Article I sets up Congress; Article II covers the President, and Article III the courts."
+    },
+    {
+      "id": 47,
+      "category": "Constitution",
+      "question": "According to the Constitution, what is the minimum age to become President?",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": "35",
+      "explanation": "A President must be at least 35 years old and a natural-born citizen."
+    },
+    {
+      "id": 48,
+      "category": "Constitution",
+      "question": "Which amendment limits a President to being elected twice?",
+      "options": ["The 20th Amendment", "The 22nd Amendment", "The 25th Amendment", "The 27th Amendment"],
+      "correct_answer": "The 22nd Amendment",
+      "explanation": "The 22nd Amendment, ratified in 1951, limits Presidents to two elected terms."
+    },
+    {
+      "id": 49,
+      "category": "Constitution",
+      "question": "Which amendment protects people against unreasonable searches and seizures?",
+      "options": ["The Second Amendment", "The Third Amendment", "The Fourth Amendment", "The Sixth Amendment"],
+      "correct_answer": "The Fourth Amendment",
+      "explanation": "The Fourth Amendment generally requires a warrant based on probable cause."
+    },
+    {
+      "id": 50,
+      "category": "Constitution",
+      "question": "What fraction of the states must ratify a proposed amendment for it to become part of the Constitution?",
+      "options": ["One-half", "Two-thirds", "Three-fourths", "All of them"],
+      "correct_answer": "Three-fourths",
+      "explanation": "Three-fourths of the states (38 of 50) must ratify an amendment."
+    },
+
+    {
+      "id": 51,
+      "category": "World Cultures",
+      "question": "Diwali, celebrated by Hindus, Sikhs, Jains, and others, is often called the Festival of what?",
+      "options": ["Colors", "Lights", "Harvest", "Kites"],
+      "correct_answer": "Lights",
+      "explanation": "Diwali is the Festival of Lights, celebrated with oil lamps, candles, and fireworks."
+    },
+    {
+      "id": 52,
+      "category": "World Cultures",
+      "question": "Día de los Muertos (Day of the Dead), a celebration honoring loved ones who have passed, is most closely associated with which country?",
+      "options": ["Spain", "Mexico", "Argentina", "Portugal"],
+      "correct_answer": "Mexico",
+      "explanation": "Día de los Muertos is a Mexican tradition featuring altars called ofrendas, marigolds, and sugar skulls."
+    },
+    {
+      "id": 53,
+      "category": "World Cultures",
+      "question": "What is the name of the traditional Japanese art of folding paper into shapes?",
+      "options": ["Ikebana", "Origami", "Haiku", "Calligraphy"],
+      "correct_answer": "Origami",
+      "explanation": "Origami comes from the Japanese words \"ori\" (folding) and \"kami\" (paper)."
+    },
+    {
+      "id": 54,
+      "category": "World Cultures",
+      "question": "How many animal signs are in the Chinese zodiac?",
+      "options": ["8", "10", "12", "14"],
+      "correct_answer": "12",
+      "explanation": "The Chinese zodiac has 12 animals that rotate in a 12-year cycle."
+    },
+    {
+      "id": 55,
+      "category": "World Cultures",
+      "question": "Flamenco, a passionate style of music and dance, comes from which country?",
+      "options": ["Italy", "Spain", "Greece", "Brazil"],
+      "correct_answer": "Spain",
+      "explanation": "Flamenco developed in Andalusia, in southern Spain."
+    },
+    {
+      "id": 56,
+      "category": "World Cultures",
+      "question": "Kimchi, a spicy fermented vegetable dish, is a staple of which country's cuisine?",
+      "options": ["Thailand", "Korea", "India", "Peru"],
+      "correct_answer": "Korea",
+      "explanation": "Kimchi, often made from napa cabbage, is central to Korean cooking."
+    },
+    {
+      "id": 57,
+      "category": "World Cultures",
+      "question": "The Māori are the Indigenous Polynesian people of which country?",
+      "options": ["Australia", "New Zealand", "Fiji", "Indonesia"],
+      "correct_answer": "New Zealand",
+      "explanation": "The Māori are the Indigenous people of Aotearoa New Zealand."
+    },
+    {
+      "id": 58,
+      "category": "World Cultures",
+      "question": "Holi, a joyful spring festival from India, is famous for people throwing what at each other?",
+      "options": ["Flower petals", "Colored powder", "Rice", "Water balloons only"],
+      "correct_answer": "Colored powder",
+      "explanation": "Holi, the Festival of Colors, celebrates spring with bright colored powders called gulal."
+    },
+    {
+      "id": 59,
+      "category": "World Cultures",
+      "question": "The famous Oktoberfest celebration began in which German city?",
+      "options": ["Berlin", "Hamburg", "Munich", "Frankfurt"],
+      "correct_answer": "Munich",
+      "explanation": "Oktoberfest started in Munich in 1810 to celebrate a royal wedding."
+    },
+    {
+      "id": 60,
+      "category": "World Cultures",
+      "question": "Machu Picchu, a mountaintop city in Peru, was built by which civilization?",
+      "options": ["The Maya", "The Aztec", "The Inca", "The Olmec"],
+      "correct_answer": "The Inca",
+      "explanation": "The Inca built Machu Picchu in the Andes Mountains in the 1400s."
+    },
+    {
+      "id": 61,
+      "category": "World Cultures",
+      "question": "Which language has the most native speakers in the world?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "correct_answer": "Mandarin Chinese",
+      "explanation": "Mandarin Chinese has more native speakers than any other language."
+    },
+    {
+      "id": 62,
+      "category": "World Cultures",
+      "question": "Kente, a colorful handwoven cloth, originated in which country?",
+      "options": ["Ghana", "Egypt", "Kenya", "Morocco"],
+      "correct_answer": "Ghana",
+      "explanation": "Kente cloth comes from the Asante and Ewe peoples of Ghana."
+    },
+    {
+      "id": 63,
+      "category": "World Cultures",
+      "question": "The Taj Mahal, one of the world's most famous buildings, is located in which country?",
+      "options": ["Pakistan", "India", "Iran", "Turkey"],
+      "correct_answer": "India",
+      "explanation": "The Taj Mahal stands in Agra, India, and was completed in the mid-1600s."
+    },
+    {
+      "id": 64,
+      "category": "World Cultures",
+      "question": "What is the name of the traditional Japanese robe-like garment tied with a sash called an obi?",
+      "options": ["Sari", "Hanbok", "Kimono", "Poncho"],
+      "correct_answer": "Kimono",
+      "explanation": "The kimono is a traditional Japanese garment worn with an obi sash."
+    },
+    {
+      "id": 65,
+      "category": "World Cultures",
+      "question": "The world-famous Carnival in Rio de Janeiro takes place in which country?",
+      "options": ["Argentina", "Colombia", "Brazil", "Cuba"],
+      "correct_answer": "Brazil",
+      "explanation": "Rio's Carnival features samba schools, parades, and huge street parties."
+    },
+    {
+      "id": 66,
+      "category": "World Cultures",
+      "question": "The didgeridoo is a traditional wind instrument of the Aboriginal peoples of which country?",
+      "options": ["Australia", "South Africa", "Canada", "Chile"],
+      "correct_answer": "Australia",
+      "explanation": "The didgeridoo was developed by Aboriginal peoples of northern Australia."
+    },
+    {
+      "id": 67,
+      "category": "World Cultures",
+      "question": "During the month of Ramadan, many Muslims fast during which part of the day?",
+      "options": ["Only at night", "From dawn until sunset", "Only on weekends", "From noon until midnight"],
+      "correct_answer": "From dawn until sunset",
+      "explanation": "Fasting during Ramadan lasts from dawn to sunset, and the fast is broken with a meal called iftar."
+    },
+    {
+      "id": 68,
+      "category": "World Cultures",
+      "question": "For how many nights is the Jewish holiday of Hanukkah celebrated?",
+      "options": ["3", "5", "7", "8"],
+      "correct_answer": "8",
+      "explanation": "Hanukkah lasts eight nights, with one more candle lit on the menorah each night."
+    },
+    {
+      "id": 69,
+      "category": "World Cultures",
+      "question": "Phở, a noodle soup made with broth and herbs, is a famous dish from which country?",
+      "options": ["Vietnam", "Japan", "Thailand", "Philippines"],
+      "correct_answer": "Vietnam",
+      "explanation": "Phở is a Vietnamese soup of rice noodles, broth, herbs, and often beef or chicken."
+    },
+    {
+      "id": 70,
+      "category": "World Cultures",
+      "question": "Matryoshka dolls — wooden dolls that nest inside one another — are a traditional craft of which country?",
+      "options": ["Poland", "Russia", "Norway", "Hungary"],
+      "correct_answer": "Russia",
+      "explanation": "Matryoshka nesting dolls were first made in Russia in the 1890s."
+    },
+
+    {
+      "id": 71,
+      "category": "Geography",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct_answer": "Pacific Ocean",
+      "explanation": "The Pacific is the largest and deepest ocean, covering about one-third of Earth's surface."
+    },
+    {
+      "id": 72,
+      "category": "Geography",
+      "question": "Which famous river flows north through Egypt into the Mediterranean Sea?",
+      "options": ["The Nile", "The Congo", "The Niger", "The Tigris"],
+      "correct_answer": "The Nile",
+      "explanation": "The Nile has supported life in Egypt for thousands of years."
+    },
+    {
+      "id": 73,
+      "category": "Geography",
+      "question": "Which is the largest continent by land area?",
+      "options": ["Africa", "Asia", "North America", "Antarctica"],
+      "correct_answer": "Asia",
+      "explanation": "Asia is the largest continent in both area and population."
+    },
+    {
+      "id": 74,
+      "category": "Geography",
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct_answer": "Canberra",
+      "explanation": "Canberra was purpose-built as the capital, partly as a compromise between Sydney and Melbourne."
+    },
+    {
+      "id": 75,
+      "category": "Geography",
+      "question": "What is the tallest mountain on Earth when measured from sea level?",
+      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Denali"],
+      "correct_answer": "Mount Everest",
+      "explanation": "Mount Everest, on the border of Nepal and China, rises about 8,849 meters above sea level."
+    },
+    {
+      "id": 76,
+      "category": "Geography",
+      "question": "What is the largest hot desert in the world?",
+      "options": ["The Gobi", "The Sahara", "The Mojave", "The Kalahari"],
+      "correct_answer": "The Sahara",
+      "explanation": "The Sahara covers much of North Africa and is the largest hot desert."
+    },
+    {
+      "id": 77,
+      "category": "Geography",
+      "question": "What is the capital city of Canada?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correct_answer": "Ottawa",
+      "explanation": "Ottawa, in the province of Ontario, is Canada's capital."
+    },
+    {
+      "id": 78,
+      "category": "Geography",
+      "question": "Which is the largest country in the world by land area?",
+      "options": ["Canada", "China", "Russia", "United States"],
+      "correct_answer": "Russia",
+      "explanation": "Russia spans 11 time zones across Europe and Asia."
+    },
+    {
+      "id": 79,
+      "category": "Geography",
+      "question": "Which U.S. state is made up entirely of islands?",
+      "options": ["Alaska", "Hawaii", "Florida", "Rhode Island"],
+      "correct_answer": "Hawaii",
+      "explanation": "Hawaii is a chain of volcanic islands in the Pacific Ocean."
+    },
+    {
+      "id": 80,
+      "category": "Geography",
+      "question": "The equator passes through which of these countries?",
+      "options": ["Mexico", "Egypt", "Brazil", "India"],
+      "correct_answer": "Brazil",
+      "explanation": "The equator crosses northern Brazil, near the mouth of the Amazon River."
+    },
+    {
+      "id": 81,
+      "category": "Geography",
+      "question": "The Great Barrier Reef, the world's largest coral reef system, lies off the coast of which country?",
+      "options": ["Australia", "Philippines", "Mexico", "Madagascar"],
+      "correct_answer": "Australia",
+      "explanation": "The Great Barrier Reef stretches along the coast of Queensland, Australia."
+    },
+    {
+      "id": 82,
+      "category": "Geography",
+      "question": "What is the smallest country in the world by area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correct_answer": "Vatican City",
+      "explanation": "Vatican City, surrounded by Rome, covers less than half a square kilometer."
+    },
+    {
+      "id": 83,
+      "category": "Geography",
+      "question": "Which of these countries has territory on both the European and Asian continents?",
+      "options": ["Spain", "Turkey", "Egypt", "Japan"],
+      "correct_answer": "Turkey",
+      "explanation": "Turkey spans both continents, with the city of Istanbul sitting on each side of the Bosporus Strait."
+    },
+    {
+      "id": 84,
+      "category": "Geography",
+      "question": "What is the capital city of Japan?",
+      "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+      "correct_answer": "Tokyo",
+      "explanation": "Tokyo has been Japan's capital since 1868; before that, the imperial capital was Kyoto."
+    },
+    {
+      "id": 85,
+      "category": "Geography",
+      "question": "How many continents are there, according to the model most commonly taught in U.S. schools?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": "7",
+      "explanation": "The common seven-continent model is Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+    },
+
+    {
+      "id": 86,
+      "category": "General Knowledge",
+      "question": "How many planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correct_answer": "8",
+      "explanation": "There are eight planets; Pluto was reclassified as a dwarf planet in 2006."
+    },
+    {
+      "id": 87,
+      "category": "General Knowledge",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correct_answer": "Au",
+      "explanation": "Gold's symbol, Au, comes from the Latin word \"aurum.\" (Ag is silver!)"
+    },
+    {
+      "id": 88,
+      "category": "General Knowledge",
+      "question": "What is the hardest naturally occurring substance on Earth?",
+      "options": ["Gold", "Iron", "Quartz", "Diamond"],
+      "correct_answer": "Diamond",
+      "explanation": "Diamond, made of tightly bonded carbon atoms, scores a 10 on the Mohs hardness scale."
+    },
+    {
+      "id": 89,
+      "category": "General Knowledge",
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+      "correct_answer": "Jupiter",
+      "explanation": "Jupiter is so big that more than 1,000 Earths could fit inside it."
+    },
+    {
+      "id": 90,
+      "category": "General Knowledge",
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": "6",
+      "explanation": "A hexagon has six sides — just like the cells of a honeycomb."
+    },
+    {
+      "id": 91,
+      "category": "General Knowledge",
+      "question": "At sea level, at what temperature in degrees Celsius does water boil?",
+      "options": ["50°C", "90°C", "100°C", "212°C"],
+      "correct_answer": "100°C",
+      "explanation": "Water boils at 100°C (212°F) at sea level."
+    },
+    {
+      "id": 92,
+      "category": "General Knowledge",
+      "question": "Which artist painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correct_answer": "Leonardo da Vinci",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s; it hangs in the Louvre in Paris."
+    },
+    {
+      "id": 93,
+      "category": "General Knowledge",
+      "question": "Which gas do plants take in from the air to perform photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+      "correct_answer": "Carbon dioxide",
+      "explanation": "Plants use carbon dioxide, water, and sunlight to make sugar, releasing oxygen."
+    },
+    {
+      "id": 94,
+      "category": "General Knowledge",
+      "question": "How many bones are in the typical adult human body?",
+      "options": ["106", "206", "306", "406"],
+      "correct_answer": "206",
+      "explanation": "Adults have 206 bones; babies start with more, and some fuse together as they grow."
+    },
+    {
+      "id": 95,
+      "category": "General Knowledge",
+      "question": "What is the largest organ of the human body?",
+      "options": ["The liver", "The brain", "The skin", "The lungs"],
+      "correct_answer": "The skin",
+      "explanation": "The skin is the body's largest organ, protecting everything inside."
+    },
+    {
+      "id": 96,
+      "category": "General Knowledge",
+      "question": "Who wrote the play \"Romeo and Juliet\"?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correct_answer": "William Shakespeare",
+      "explanation": "William Shakespeare wrote Romeo and Juliet in the 1590s."
+    },
+    {
+      "id": 97,
+      "category": "General Knowledge",
+      "question": "What is the closest star to Earth?",
+      "options": ["Polaris", "Sirius", "Proxima Centauri", "The Sun"],
+      "correct_answer": "The Sun",
+      "explanation": "The Sun is a star! The next closest, Proxima Centauri, is over 4 light-years away."
+    },
+    {
+      "id": 98,
+      "category": "General Knowledge",
+      "question": "At sea level, what is the freezing point of water in degrees Fahrenheit?",
+      "options": ["0°F", "32°F", "100°F", "212°F"],
+      "correct_answer": "32°F",
+      "explanation": "Water freezes at 32°F, which equals 0°C."
+    },
+    {
+      "id": 99,
+      "category": "General Knowledge",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+      "correct_answer": "Mars",
+      "explanation": "Iron oxide (rust) in its soil gives Mars its reddish color."
+    },
+    {
+      "id": 100,
+      "category": "General Knowledge",
+      "question": "How many minutes are in one full day?",
+      "options": ["1,000", "1,200", "1,440", "1,600"],
+      "correct_answer": "1,440",
+      "explanation": "24 hours × 60 minutes = 1,440 minutes."
+    }
+  ]
+}
